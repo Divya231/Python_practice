@@ -31,6 +31,15 @@ print(list)
 
 
 tuple=("Data-science","Machine_learning",10,45,"Python")
-tuple[0]=1
 print(type(tuple))
-print(tuple)
+
+
+# Dictionary
+
+dic = {
+    'name' : 'Divya' ,
+    'Interest' : 'Python' ,
+    'Profile' : 'Devops'
+}
+print(type(dic),dic)
+print(dic['name'])
