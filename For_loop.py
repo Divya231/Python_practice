@@ -13,10 +13,10 @@
 # condition 1 to 10
 # increment +2
 
-# for num in range(10):
-#     print(num)
+for num in range(10):
+    print(num)
 
-# for num in range(1,10):
-#     print(num)
+for num in range(1,10):
+    print(num)
 for num in range(3,10,2):
     print(num)
