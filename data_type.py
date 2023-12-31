@@ -43,3 +43,8 @@ dic = {
 }
 print(type(dic),dic)
 print(dic['name'])
+
+# set
+
+set={1,2,3,1,"divya","python",45,"python"}
+print(type(set),set)
