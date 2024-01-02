@@ -13,3 +13,9 @@ print(s.index("a"))
 print(s.isalpha())
 print(s.isalnum())
 print(s.isdigit())
+
+
+y=chr(65)
+print(y, type(y))
+y=ord("D")
+print(y,type(y))
