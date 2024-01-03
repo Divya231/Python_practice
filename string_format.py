@@ -9,3 +9,11 @@ print(n ,p)
 n="hi my name is {a} , and my age is {b}".format(a="divya",b=22)
 
 print(n)
+n="hi my name is {a} , and my age is {b:10}".format(a="divya",b=22)
+# b:10 -------> how much length of character or integer will stored
+print(n)
+n="hi my name is {a} , and my age is {b:^10}".format(a="divya",b=22)
+# b:^10 ---> character will come in the middle
+# b:<10 ----> character will come in left
+# b:>10 ---->character will come in right (default)
+print(n)
