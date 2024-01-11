@@ -1,3 +1,5 @@
+def use_of_pass():
+    pass
 def calculator(n1,n2):
     if(op=='+'):
         print("Addition of two number : ",n1+n2)
