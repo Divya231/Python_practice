@@ -1,1 +1,1 @@
-emp2.pop()
+print(cube(7))

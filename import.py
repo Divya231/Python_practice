@@ -31,4 +31,5 @@
 
 import test_import as ti
 ti.test()
-print(ti.are)
+
+
